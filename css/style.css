@@ -150,7 +150,7 @@ p{
     
 }
 
-.last-section{
+.bottom-section{
     display: flex;
     background-color: rgba(128, 128, 128, 0.5);
     justify-content: center;
@@ -165,7 +165,7 @@ p{
 
 }
 
-.quinta{
+.last-section{
     background-color: rgba(128, 128, 128, 0.5);
     display: flex;
     align-content: center;
